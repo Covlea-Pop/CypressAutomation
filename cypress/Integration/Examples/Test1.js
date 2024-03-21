@@ -18,6 +18,7 @@ describe('My First Test Suite', () => {
         {
           cy.wrap($el).find('button').click()
         }
+        
 
         })
 
